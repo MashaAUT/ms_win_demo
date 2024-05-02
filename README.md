@@ -1,2 +1,15 @@
 # ms_win_demo
-win app automation
+
+The principal goal  of this demo is to relate one of my experiences using junit with my cv experience to contextualize the recruiter.
+
+With those libraries we presented a test automation strategy to bank client and replaced the private tool that existed, we were recognized for this.
+
+We changed the core of the business, save lot money and not only these the way of thinking.
+
+
+[JuanTous -Med]
+[Microsoft's u********d s*n] 
+
+
+ 
+
